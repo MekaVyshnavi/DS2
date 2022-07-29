@@ -4,4 +4,5 @@ Tools used are:
 Jupyter notebook
 Anaconda command prompt
 Operating system: Windows 10
-Dataset used: https://www.kaggle.com/c/fake-news/data?select=train.csv
+Dataset used: https://www.kaggle.com/c/fake-news/data?select=train.csv .
+Libraries used are: pandas, numpy, matplotlib, seaborn, nltk, regex, scikit-learn, ipywidgets and tqdm.
